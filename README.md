@@ -4,6 +4,8 @@
 
 This is a script that makes a fullscreen window that spams random text that vaugely looks like hacking. Use space to activate a text that says "ACCESS GRANTED", again to go back and esc to quit or alt+f4.
 
+### THIS IS NOT VIBE-CODED only some code was assisted by ai
+
 ## Installing dependencies
 ``` bash
 pip install pygame
