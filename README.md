@@ -17,7 +17,7 @@ cd FakeHackingScript
 python3 hz.py
 ```
 ### or
-[Click here](https://github.com/Avragecheeseborger/FakeHackingScript/archive/refs/heads/main.zip) and run in the same directory as the download folder eg "~/Downloads" for linux
+[Click here](https://github.com/Avragecheeseborger/FakeHackingScript/archive/refs/heads/main.zip) and run in the download folder eg "~/Downloads" for linux
 ```bash
 mkdir FakeHackingScript
 tar -xf main.zip
